@@ -21,7 +21,7 @@ This is the Circuit Designed in this repository
 2. Compile the Circuit
 
    ```bash
-   npm hardhat circom
+   npx hardhat circom
 
 3. Run and Deploy the circuit
 
