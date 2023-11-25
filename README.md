@@ -9,7 +9,7 @@ This project involves designing a zero-knowledge succinct non-interactive argume
 
 This is the Circuit Designed in this repository
 
-![Screenshot 2023-11-19 173814](https://github.com/RahulDev2004/zkCircuit-polygon/assets/93385733/b5e0d470-6625-43fe-9d3e-018043a1d39c)
+![Assessment_b05f6ed658](https://github.com/RahulDev2004/zkCircuit-polygon/assets/93385733/4cdca88b-7c24-44eb-a534-8f1b1c43d3ac)
 
 # Setup
 
